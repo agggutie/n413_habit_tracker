@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "sass": "^1.75.0"
+  },
+  "name": "n413_habit_tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
